@@ -1,2 +1,2 @@
-Nuvio Badges Collection multiple Creators
+Nuvio Badges Collection multiple Creators Easy Access
 
