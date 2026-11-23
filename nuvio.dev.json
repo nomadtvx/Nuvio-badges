@@ -6,6 +6,11 @@
       "isExpanded": true
     },
     {
+      "id": "src",
+      "name": "Source",
+      "isExpanded": true
+    },
+    {
       "id": "hdr",
       "name": "HDR / Vision",
       "isExpanded": true
@@ -18,11 +23,6 @@
     {
       "id": "ch",
       "name": "Channels",
-      "isExpanded": true
-    },
-    {
-      "id": "src",
-      "name": "Source",
       "isExpanded": true
     },
     {
